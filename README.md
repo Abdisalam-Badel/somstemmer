@@ -3,36 +3,31 @@ This repository is the official implementation of:  [Somstem: A Hybrid Stemmer f
 >📋 Somstem Architecture:
 <img src="assets/design.jpg" width=700>
 
-## Usage 
-
->📋 Click [somstem](https://github.com/AMoffsom/Som_stem/releases/tag/V1.0) and download the somstem.zip file.
-1. Download the project from the above provided link.
-2. Extract the ZIP file to retrieve the Somstem folder. You may see a path like somstem/Somstem. Make sure to use the correct directory when accessing the files.
-3. Place it in your project directory or any location of your choice, and then follow the steps outlined below.
 
 ## Requirements
 
->📋 First, install the stemmer, then the other requirements:
+>📋 First, install the stemmer:
 ```
 pip install directory/somstem/dist/somstem-0.1.0-py3-none-any.whl   
 ```
-- example in my case:   pip install D:/pos-tagger/somstem/dist/somstem-0.1.0-py3-none-any.whl
+- example in my case:   pip install D:/somali_hate_speech/somstem/dist/somstem-0.1.0-py3-none-any.whl
 
+Other requirements:
 ```
 transformers                
 torch                        
 datasets                     
 sentencepiece
-scikit-learn                            
+pip install protobuf                           
 ```
-- In a future version, we will remove the scikit-learn package.
   
->📋 We met an error in a TensorFlow installed machine and solved installing:
-```
-pip install protobuf
-```
 
+## Usage 
 
+>📋 Click [somstem](https://github.com/AMoffsom/Som_stem/releases/tag/V1.0) and download the somstem.zip file.
+1. Download the project from the above provided link.
+2. Extract the ZIP file to retrieve the Somstem folder. You may see a path like somstem/Somstem. Make sure to use the correct directory when accessing the files.
+3. Place it in your project directory or any location of your choice.
 
 ## Sample Code
 
