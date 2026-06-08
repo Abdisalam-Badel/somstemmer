@@ -66,3 +66,7 @@ If you find this repository helpful for your work, please cite our paper:
   pages={271-275},
   doi={10.1109/ICNLP69856.2026.11527795}}
 ```
+
+License
+---------------------------------------------------------------------------------------------------------
+MIT
