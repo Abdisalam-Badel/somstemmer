@@ -1,4 +1,4 @@
-##Somstem
+## Somstem
 -------------------------------------------------------------------
 This repository is the official implementation of:  [Somstem: A Hybrid Stemmer for the Somali Language](https://ieeexplore.ieee.org/abstract/document/11527795) 
 >📋 Somstem Architecture:
