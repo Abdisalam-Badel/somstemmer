@@ -24,7 +24,7 @@ pip install protobuf
 
 ## Usage 
 
-1.  Download the `somstem.zip` file from the [somstem](https://github.com/AMoffsom/Som_stem/releases/tag/V1.0) and download the somstem.zip file.
+1.  Download the `somstem.zip` file from  [somstem](https://github.com/AMoffsom/Som_stem/releases/tag/V1.0).
 2. Extract the ZIP file. You may see a folder structure like `somstem/Somstem`, be sure to use the correct inner directory when accessing the files.
 3. Place the `Somstem` folder in your project directory or any location of your choice.
 
