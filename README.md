@@ -59,3 +59,15 @@ Original word: xarunta
 Stemmed word: xarun
 Enter a word to stem or type 'quit' to exit: 
 ```
+
+If you find this repository helpful for your work, please cite our paper:
+
+```
+@INPROCEEDINGS{11527795,
+  author={Badel, Abdisalam Mahamed and Tai, Wenxin and Xu, Xovee and Siraad, Abdikadir Maktal},
+  booktitle={2026 8th International Conference on Natural Language Processing (ICNLP)}, 
+  title={Somstem: A Hybrid Stemmer for the Somali Language}, 
+  year={2026},
+  pages={271-275},
+  doi={10.1109/ICNLP69856.2026.11527795}}
+```
