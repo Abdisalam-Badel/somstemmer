@@ -54,7 +54,9 @@ Stemmed word: xarun
 Enter a word to stem or type 'quit' to exit: 
 ```
 
-If you find this repository helpful for your work, please cite our paper:
+>📋 For stemming a corpus, rewrite the usage code accordingly.
+
+If you find this repository helpful, please cite our paper:
 
 ```
 @INPROCEEDINGS{11527795,
