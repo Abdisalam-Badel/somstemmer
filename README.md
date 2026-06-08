@@ -10,7 +10,7 @@ This repository is the official implementation of:  [Somstem: A Hybrid Stemmer f
 ```
 pip install directory/somstem/dist/somstem-0.1.0-py3-none-any.whl   
 ```
-- example in my case:   pip install D:/somali_hate_speech/somstem/dist/somstem-0.1.0-py3-none-any.whl
+>📋 example in my case:   pip install D:/somali_hate_speech/somstem/dist/somstem-0.1.0-py3-none-any.whl
 
 Other requirements:
 ```
