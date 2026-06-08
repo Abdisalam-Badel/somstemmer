@@ -29,7 +29,7 @@ pip install protobuf
 2. Extract the ZIP file to retrieve the Somstem folder. You may see a path like somstem/Somstem. Make sure to use the correct directory when accessing the files.
 3. Place it in your project directory or any location of your choice.
 
-## Sample Code
+### Sample Code
 
 ```
 from  somstem.mt5_last import HybridStemmer
