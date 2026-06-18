@@ -5,7 +5,7 @@ This repository is the official implementation of:  [Somstem: A Hybrid Stemmer f
 <img src="assets/design.jpg" width=700>
 
 
-## installation
+## Installation
 >📋 Follow these steps to download and set up the software:
 
 1.  Download the `somstem.zip` file from  [somstem](https://github.com/Abdisalam-Badel/somstemmer/releases/tag/V1).
