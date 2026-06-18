@@ -5,15 +5,20 @@ This repository is the official implementation of:  [Somstem: A Hybrid Stemmer f
 <img src="assets/design.jpg" width=700>
 
 
-## Requirements
+## installation
+>📋 Follow these steps to download and set up the software:
 
->📋 First, install the stemmer:
+1.  Download the `somstem.zip` file from  [somstem](https://github.com/Abdisalam-Badel/somstemmer/releases/tag/V1).
+2. Extract the ZIP file. You may see a folder structure like `somstem/Somstem`, be sure to use the correct inner directory when accessing the files.
+3. Place the `Somstem` folder in your project directory or any location of your choice.
+   
+>📋 Install the stemmer:
 ```
 pip install directory/somstem/dist/somstem-0.1.0-py3-none-any.whl   
 ```
 >📋 example in my case:   ```pip install D:/somali_hate_speech/somstem/dist/somstem-0.1.0-py3-none-any.whl```
 
-Other requirements:
+## Install Requirements:
 ```
 transformers ==      4.46.3               
 torch        ==      2.4.1                
@@ -22,14 +27,7 @@ sentencepiece
 protobuf                           
 ```
   
-
-## Usage 
-
-1.  Download the `somstem.zip` file from  [somstem](https://github.com/Abdisalam-Badel/somstemmer/releases/tag/V1).
-2. Extract the ZIP file. You may see a folder structure like `somstem/Somstem`, be sure to use the correct inner directory when accessing the files.
-3. Place the `Somstem` folder in your project directory or any location of your choice.
-
-### Sample Code
+### Usage
 
 ```
 from  somstem.mt5_last import HybridStemmer
