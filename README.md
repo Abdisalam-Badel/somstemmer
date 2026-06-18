@@ -19,7 +19,7 @@ transformers ==      4.46.3
 torch        ==      2.4.1                
 datasets                     
 sentencepiece
-pip install protobuf                           
+protobuf                           
 ```
   
 
