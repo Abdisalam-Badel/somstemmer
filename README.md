@@ -15,8 +15,8 @@ pip install directory/somstem/dist/somstem-0.1.0-py3-none-any.whl
 
 Other requirements:
 ```
-transformers                
-torch                        
+transformers ==      4.46.3               
+torch        ==      2.4.1                
 datasets                     
 sentencepiece
 pip install protobuf                           
