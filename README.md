@@ -55,7 +55,8 @@ Enter a word to stem or type 'quit' to exit:
 
 >📋 For stemming a corpus, rewrite the usage code accordingly.
 
-------------------------------------------------------------------------------------------------------------
+## 📌 Citation
+
 If you find this repository helpful, please cite our paper:
 
 ```
