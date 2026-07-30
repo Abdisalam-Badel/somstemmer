@@ -57,7 +57,7 @@ Enter a word to stem or type 'quit' to exit:
 
 ## Adapting to a New Language 
 
->📋 If you want to use this repository for any other low-resource language and customize our code, first prepare your data following our format, second edit the hard-coded rules, then retrain the stemmer by running ``cd python somstem.py``, If you need any help or further details, contact **Abdisalam** **Badel** at fiicane121@gmail.com.
+>📋 If you want to use this repository for any other low-resource language and customize our code, first prepare your data following our format, second edit the hard-coded rules, then retrain the stemmer by running ``cd code python somstem.py``, If you need any help or further details, contact **Abdisalam** **Badel** at fiicane121@gmail.com.
 
 ## 📌 Citation
 
