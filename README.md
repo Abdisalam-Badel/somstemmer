@@ -27,7 +27,7 @@ sentencepiece
 protobuf                           
 ```
   
-### Usage
+## Usage
 
 ```
 from  somstem.mt5_last import HybridStemmer
@@ -55,9 +55,9 @@ Enter a word to stem or type 'quit' to exit:
 
 >📋 For stemming a corpus, rewrite the usage code accordingly.
 
-### Adapting to a New Language 
+## Adapting to a New Language 
 
->📋 If you want to use this repository for any other low-resource language and customize our code, first prepare your data following our format, second edit the hard-coded rules, then retrain the stemmer by running ``python somstem.py``, If you need any help or further details, contact **Abdisalam** **Badel** at fiicane121@gmail.com.
+>📋 If you want to use this repository for any other low-resource language and customize our code, first prepare your data following our format, second edit the hard-coded rules, then retrain the stemmer by running ``cd python somstem.py``, If you need any help or further details, contact **Abdisalam** **Badel** at fiicane121@gmail.com.
 
 ## 📌 Citation
 
