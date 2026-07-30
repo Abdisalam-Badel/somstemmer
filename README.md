@@ -44,7 +44,7 @@ if __name__ == "__main__":
         print(f"Stemmed word: {stemmed_word}")
 ```
 
->📋 Output:
+>📋 Sample Output (Single Word Stemming):
 
 ```
 Enter a word to stem or type 'quit' to exit: xarunta
